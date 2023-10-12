@@ -1,0 +1,18 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Other standard ignore items
+*.log      # Log files
+.env       # Environment configuration files
+*.bak      # Backup files
